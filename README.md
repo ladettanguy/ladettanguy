@@ -7,7 +7,7 @@
 ## experience
 - Free Reseau (Famous french Internet Service Provider) as DevOps
 - FranceTravail as DevOps Engineer
-- Pairform (my own compagny around a project about CRM specialized in training centers)
+- Pairform (my own compagny around a project about CRM specialized in training centers) as CTO
 ## Contact
 ### Email
 > tanguyladet@gmail.com
