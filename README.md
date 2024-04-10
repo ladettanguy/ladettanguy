@@ -1,13 +1,17 @@
 # Tanguy Ladet
-## French developer (Python, Java, C++, .. etc)
+## French DevOps Engineer
+### Python, Java, C++, JS, Go, Bash 
+### Kubenetes, GitLab CI, Github Action, GCP, AWS, ELK/ECK, LGTM stack
+### Linux only
 ## birth - 01/1999
-## Jobs
-> Now in the company "Free Reseau" (a famous French Internet Service Provider) as Dev back/Geomatics Python
+## experience
+- Free Reseau (Famous french Internet Service Provider) as DevOps
+- FranceTravail as DevOps Engineer
+- Pairform (my own compagny around a project about CRM specialized in training centers)
 ## Contact
 ### Email
-> sti2dlab.ladettanguy@gmail.com
+> tanguyladet@gmail.com
 ### Discord
 > tamikata#2214
 ### Linkedin
 > https://www.linkedin.com/in/tanguy-ladet-58954b171/
-
