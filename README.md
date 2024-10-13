@@ -1,7 +1,7 @@
 # Tanguy Ladet
 ## French DevOps Engineer
 ### Python, Java, C++, JS, Go, Bash 
-### Kubenetes, GitLab CI, Github Action, GCP, AWS, ELK/ECK, LGTM stack
+### Kubenetes, GitLab CI, Github Action, GCP, AWS, ELK/ECK, Prometheus/Grafana
 ### Linux only
 ## birth - 01/1999
 ## experience
